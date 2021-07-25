@@ -12,5 +12,3 @@ function AutoReview() {
     </div>
   );
 }
-
-export default AutoReview;
